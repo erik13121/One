@@ -1,0 +1,17 @@
+Everything
+What should we say when any User can work with a Use Case
+
+2.12
+Add uses link in the Use Case Diagram to connect Use cases 2.12 and 2.6
+Remove Expiration Date from Software_Licenses_Line table
+Add Software Licenses can be any User or only the User that owns or is reponsible for the specified Equipment. If it is the later then should the invoking of 2.6 Search Equipment only display Equipment that the User owns or responsible for or should it still show all the Equipment.
+
+2.13
+Change View to Search in Use Case Diagram and List
+
+
+2.16
+Who needs to approve the Equipment Repair Request
+Add uses link to 2.6
+Should Estimated Cost be in the Repair_Request table. What are all the possible attributes that could be in here.
+
